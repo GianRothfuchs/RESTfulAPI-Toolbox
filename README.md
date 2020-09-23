@@ -21,3 +21,5 @@ Template is located [here](template/).
 Development tools for API client interfaces are: 
 1. Atom: editing JavaScript and html code
 2. Postman: To quickly send requests and inspect response, including JSON parse
+
+Items in this repository belong to the following course offering on [Coursera](https://www.coursera.org/projects/restful-api-http-javascript).
