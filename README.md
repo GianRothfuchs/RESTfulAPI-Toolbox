@@ -16,8 +16,6 @@ In order to qualify as  RESTful and API has to comply with the following rules:
 
 Practical Problem: cross origin-sharing, cross site scripting
 
-Template is located [here](template/).
-
 Development tools for API client interfaces are: 
 1. Atom: editing JavaScript and html code
 2. Postman: To quickly send requests and inspect response, including JSON parse
